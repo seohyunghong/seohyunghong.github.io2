@@ -1,97 +1,97 @@
 - title: General Information
+  anchor: general-information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Seohyung Hong
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 21st April 2000
 
 - title: Education
+  anchor: education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Integrated Master and PhD Candidate
+      institution: Seoul National University College of Medicine
+      year: 2024.12-PRESENT
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - title: Major
+          contents: Department of Biomedical Science
+        - title: Research Interest
+          contents: Transcriptomics using AI, Pathology image segmentation using CV
+
+    - title: Bachelor's degree
+      institution: Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea
+      year: 2020.03-2025.02
       description:
-        - Description 1.
-        - Description 2.
+        - title: Major
+          contents: Computer Science(Main) & Biology(Double major)
+
+    - title: High School
+      institution: Cheong-won Highschool, Ochang, South Korea
+      year: 2018.03-2020.02
+
+    - title: High School - Exchange Student
+      institution: Coshocton Highschool, Ohio, USA
+      year: 2015.08-2016.07
 
 - title: Experience
+  anchor: experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Intern, Visual Intelligence Lab (VIVA Lab)
+      institution: University of Virginia
+      year: 2024.06-2024.08
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Led a machine learning project to analyze ballet movements using body landmarks.
+        - Developed a generalized scoring system for performance evaluation.
+
+    - title: Intern, Medical Image & Signal Processing Lab
+      institution: DGIST
+      year: 2023.06-2024.06
       description:
-        - Description 1.
-        - Description 2.
+        - Developed an advanced cell segmentation model by modifying SAM, ResUnet34, and PCM models.
+        - Improved cancer cell segmentation accuracy by fine-tuning SAM Adapter and HQ-SAM in a weakly supervised setting.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Intern, Spidercore Inc., KAIST Venture Enterprise
+      institution: KAIST
+      year: 2022.12-2023.02
       description:
+        - Built an NLP model using BERT and TensorFlow for RNA therapeutic prediction.
+        - Significantly improved model accuracy compared to previous implementations.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Intern, Surgical Robotics & AR Research Center
+      institution: DGIST
+      year: 2022.08-2022.12
+      description:
+        - Developed a 3D AR-assisted surgical environment using Hololens 2 and Unity.
 
-- title: Open Source Projects
+- title: Honors
+  anchor: honors
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2024
+      items:
+        - University of Virginia (UVA), Internship scholarship
+    - year: 2022
+      items:
+        - University of California, Los Angeles (UCLA), Seasonal semester scholarship
+    - year: 2020
+      items:
+        - DGIST Full scholarship
+    - year: 2016
+      items:
+        - Coshocton High School Full scholarship
+        - 2016 Akron Regional Science Olympiad 3rd place
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1
+#      items:
+#        - Description 1
+#        - Description 2
+#    - title: Topic 2
+#      items:
+#        - Description 1
+#        - Description 2
