@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://seohyunghong.github.io/seohyunghong/sitemap.xml
+Sitemap: https://seohyunghong.github.io/sitemap.xml
