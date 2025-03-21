@@ -193,6 +193,15 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts/
+  - _pages/dropdown.md
+  - _includes/news.liquid
+  - _pages/projects.md
+  - assets/json/resume.json
+  - _pages/blog.md
+  - _news/
+  - _pages/repositories.md
+
 keep_files:
   - CNAME
   - .nojekyll
