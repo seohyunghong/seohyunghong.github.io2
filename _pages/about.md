@@ -14,7 +14,7 @@ profile:
     <p>Seohyung Hong</p>
     <p>서울대학교 의과대학 의과학과</p>
     <p>석박통합과정</p>
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:

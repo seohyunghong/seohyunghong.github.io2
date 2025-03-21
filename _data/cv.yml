@@ -13,7 +13,7 @@
   contents:
     - title: Integrated Master and PhD Candidate
       institution: Seoul National University College of Medicine
-      year: 2024.12-PRESENT
+      year: "2024.12-PRESENT"
       description:
         - title: Major
           contents: Department of Biomedical Science
@@ -22,18 +22,18 @@
 
     - title: Bachelor's degree
       institution: Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea
-      year: 2020.03-2025.02
+      year: "2020.03-2025.02"
       description:
         - title: Major
           contents: Computer Science(Main) & Biology(Double major)
 
     - title: High School
       institution: Cheong-won Highschool, Ochang, South Korea
-      year: 2018.03-2020.02
+      year: "2018.03-2020.02"
 
     - title: High School - Exchange Student
       institution: Coshocton Highschool, Ohio, USA
-      year: 2015.08-2016.07
+      year: "2015.08-2016.07"
 
 - title: Experience
   anchor: experience
@@ -41,28 +41,28 @@
   contents:
     - title: Intern, Visual Intelligence Lab (VIVA Lab)
       institution: University of Virginia
-      year: 2024.06-2024.08
+      year: "2024.06-2024.08"
       description:
         - Led a machine learning project to analyze ballet movements using body landmarks.
         - Developed a generalized scoring system for performance evaluation.
 
     - title: Intern, Medical Image & Signal Processing Lab
       institution: DGIST
-      year: 2023.06-2024.06
+      year: "2023.06-2024.06"
       description:
         - Developed an advanced cell segmentation model by modifying SAM, ResUnet34, and PCM models.
         - Improved cancer cell segmentation accuracy by fine-tuning SAM Adapter and HQ-SAM in a weakly supervised setting.
 
     - title: Intern, Spidercore Inc., KAIST Venture Enterprise
       institution: KAIST
-      year: 2022.12-2023.02
+      year: "2022.12-2023.02"
       description:
         - Built an NLP model using BERT and TensorFlow for RNA therapeutic prediction.
         - Significantly improved model accuracy compared to previous implementations.
 
     - title: Intern, Surgical Robotics & AR Research Center
       institution: DGIST
-      year: 2022.08-2022.12
+      year: "2022.08-2022.12"
       description:
         - Developed a 3D AR-assisted surgical environment using Hololens 2 and Unity.
 
@@ -82,7 +82,6 @@
     - year: 2016
       items:
         - Coshocton High School Full scholarship
-        - 2016 Akron Regional Science Olympiad 3rd place
 
 #- title: Academic Interests
 #  type: nested_list
