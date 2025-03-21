@@ -145,13 +145,13 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -201,7 +201,9 @@ exclude:
   - _pages/blog.md
   - _news/
   - _pages/repositories.md
-
+  - _projects/
+  - _pages/blog.md
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
