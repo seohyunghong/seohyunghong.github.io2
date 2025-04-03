@@ -259,7 +259,8 @@ terser:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-# jekyll-archives:
+jekyll-archives:
+    enable=[]
 #   posts:
 #     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 #     permalinks:
