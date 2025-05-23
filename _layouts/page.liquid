@@ -18,16 +18,7 @@ layout: default
     {{ content }}
   </article>
 
-  {% if page.related_publications %}
-    <h2>References</h2>
-    <div class="publications">
-      <h3>References</h3>
-      <ul>
-        <li>Author, "Title", Journal, Year.</li>
-        <li>Author, "Title", Journal, Year.</li>
-      </ul>
-    </div>
-  {% endif %}
+
 
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
