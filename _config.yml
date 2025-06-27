@@ -144,7 +144,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # # Collections
 # # -----------------------------------------------------------------------------
 
-# collections:
+collections:
 #   books:
 #     output: false
 #   news:
@@ -153,6 +153,9 @@ disqus_shortname: al-folio # put your disqus shortname
 #     output: false
 #   projects:
 #     output: false
+  pages:
+    output: true
+    permalink: /:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
