@@ -28,7 +28,6 @@ on:
       - completed
   workflow_dispatch:
 
-
 ########################################################################
 # THAT'S IT; YOU DON'T HAVE TO DEFINE ANYTHING IN THE FOLLOWING
 ########################################################################

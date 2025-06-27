@@ -212,7 +212,7 @@ keep_files:
 
 # Plug-ins
 plugins:
-#  - jekyll-archives-v2
+  #  - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -261,8 +261,7 @@ terser:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-    enable=[]
+jekyll-archives: enable=[]
 #   posts:
 #     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 #     permalinks:
