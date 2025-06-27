@@ -17,6 +17,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+remote_theme: alshedivat/al-folio
 
 url: https://seohyunghong.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -172,9 +173,10 @@ kramdown:
 
 # Includes & excludes
 include: ["_pages", "_scripts"]
+
 exclude:
   - bin/
-  - _news/
+  # - _news/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
@@ -193,17 +195,17 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _posts/
-  - _pages/dropdown.md
-  - _includes/news.liquid
-  - _pages/projects.md
-  - assets/json/resume.json
-  - _pages/blog.md
-  - _news/
-  - _pages/repositories.md
-  - _projects/
-  - _pages/blog.md
-  - _pages/repositories.md
+  # - _posts/
+  # - _pages/dropdown.md
+  # - _includes/news.liquid
+  # - _pages/projects.md
+  # - assets/json/resume.json
+  # - _pages/blog.md
+  # - _news/
+  # - _pages/repositories.md
+  # - _projects/
+  # - _pages/blog.md
+  # - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -629,9 +631,9 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics
