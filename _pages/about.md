@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Home
-#permalink: /
+permalink: /
 subtitle: <a href='mailto:hong.sh@snu.ac.kr'>hong.sh@snu.ac.kr</a> | Affiliated with <a href='https://aibl.snu.ac.kr/home'>SNU AIBL Lab</a>
 
 profile:
