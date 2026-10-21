@@ -25,7 +25,7 @@ Hello!
 
 I am a `Medical AI Researcher` and an `MS-Ph.D. Candidate` at **Seoul National University College of Medicine**. My academic foundation is rooted in **Computer Science** and **Biology**, as I pursued a dual major Bachelor's degree at DGIST.
 
-My current research interests rely on `spatial transcriptomics` and `cell image segmentation` using deep learning. My ultimate goal is to enhance the `efficiency of medical data analysis` and facilitate its commercialization.
+My current research interests rely on `VLM`, cell image `segmentation` using deep learning, and `Multimodal AI`. My ultimate goal is to enhance the efficiency of medical data analysis and facilitate its commercialization.
 With hands-on experience in AI-driven biomedical image processing and computational biology, I have worked on fine-tuning cutting-edge models.
 
 Please [check out my CV](/cv/) for more details.

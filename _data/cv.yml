@@ -39,6 +39,27 @@
   anchor: experience
   type: time_table
   contents:
+    - title: AI Developer, Vezel
+      institution: Vezel Law Firm
+      year: "2026.08-PRESENT"
+      description:
+        - Collaborate with a technical patent attorney to build patent workflow automation tools integrating macros, external programs, internal systems, and open-source AI.
+        - Turn repetitive patent work into automated workflows, significantly improving operational efficiency.
+
+    - title: AI Developer, Safesoft
+      institution: Safesoft Inc.
+      year: "2026.04-PRESENT"
+      description:
+        - Develop an AI pipeline that converts irregularly formatted data and tables in real-world clinical trial documents into a unified, structured CRF.
+        - Reduce data processing time from months to hours, lowering the company’s data management costs.
+
+    - title: AI Developer, Healthpedia Inc.
+      institution: Healthpedia Inc., Dongguk University Seoul Hospital
+      year: "2025.08-PRESENT"
+      description:
+        - Develop an internal RAG-based AI system for efficient knowledge retrieval and medical Q&A automation using LangChain and FAISS.
+        - Design and deploy a multilingual RAG agent tailored for dermatology and plastic surgery clinics, enabling seamless consultations with international patients.
+
     - title: Intern, Visual Intelligence Lab (VIVA Lab)
       institution: University of Virginia
       year: "2024.06-2024.08"
